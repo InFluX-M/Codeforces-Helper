@@ -1,0 +1,10 @@
+{
+  "name": "test-name",
+  "code": "test-name",
+  "title": "test-name",
+  "memory_limit": 256,
+  "time_limit": 1.0,
+  "type": "Batch",
+  "has_grader": false,
+  "description": ""
+}
